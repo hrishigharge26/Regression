@@ -5,9 +5,9 @@ Regression technique vary from Linear Regression to SVR and Random Forests Regre
 
 In this repository I have uploaded following regression techniques:
 
-Simple Linear Regression
-Multiple Linear Regression
-Polynomial Regression
-Support Vector for Regression (SVR)
-Decision Tree Classification
-Random Forest Classification
+1)  Simple Linear Regression
+2)  Multiple Linear Regression
+3)  Polynomial Regression
+4)  Support Vector for Regression (SVR)
+5)  Decision Tree Classification
+6)  Random Forest Classification
